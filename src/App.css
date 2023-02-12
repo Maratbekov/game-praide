@@ -1,0 +1,16 @@
+.App {
+  width: 1440px;
+  margin: 0 auto;
+  background-image: url('../src/assests/images/bg.png');
+  background-color: rgba(0, 0, 0, 0.948);
+}
+
+.active {
+  background-color: #0761dc;
+  padding: 15px 30px 15px 30px;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}

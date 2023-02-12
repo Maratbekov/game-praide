@@ -1,0 +1,107 @@
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer a{
+    color: #0761DC;
+    margin-bottom: 50px;
+}
+
+.game{
+    width: 142px;
+    height: 40px;
+    margin: 46px 61px;
+ 
+}
+.game img{
+    width: 87px;
+    height: 40px;
+    background: none;
+}
+.game h4 {
+    display: inline-block;
+    width: 55px;
+    height: 20px;
+    color: #444E57; 
+    font-family: Racing Sans One;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+
+h5{
+    color: #fff;
+    display: inline-block;
+    padding-top: 65px;
+    margin-right: 10px;
+
+}
+a{
+    padding-top: 85px;
+}
+
+.li{
+  transition: 1s; 
+  text-align: center; 
+}
+.li:hover {
+  transform: scale(1.2); /* Увеличиваем масштаб */
+}
+ .li{
+    color: #444E57;
+   font-size: 14px; 
+    
+ } 
+.li:hover{
+    color: #fff;
+    /* font-size: 15px; */
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    padding-top: 68px;
+    margin-right: 43px;
+    margin-left: 35px;
+
+
+}
+
+
+
+.container hr{
+    height: 14px;
+    padding-top: 5px;
+    border: 1px solid #444E57;
+    background-color: #444E57;
+
+}
+.enter {
+    display: flex;
+    margin-right: 60px;
+    
+}
+
+.enter img{
+    width: 64px;
+    height: 54px;
+    color: #fff;
+    background-color: #444E57; 
+    display: inline-block;
+    margin-top: 50px;
+
+}
+
+.enter button {
+    margin-top: 50px; 
+    width: 106px;
+    height: 54px;
+    background: #FF7A00;
+    color: #fff;
+    border: none;
+   
+}

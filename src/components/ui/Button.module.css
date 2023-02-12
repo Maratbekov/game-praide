@@ -1,0 +1,21 @@
+.button{
+    background: #0761DC;
+    border-radius: 7px;
+    height: 24px;
+    color: #fff;
+    padding: 0 5px 0 5px;
+    display: inline-block;
+
+}
+
+.joinBtn{
+    height: 43px;
+    width: 158px;
+    border-radius: 3px;
+    background: #0761DC;
+    color: #fff;
+}
+/* .bid{
+    display: inline-block;
+
+} */

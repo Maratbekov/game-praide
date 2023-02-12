@@ -1,0 +1,79 @@
+
+
+.body{
+    background-image: url('../../assests/images/backroundImg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 394px;
+    width: 1440px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.container img{
+    height: 40px;
+    width: 22px;
+    left: 157px;
+    top: 334px;
+    margin-top: 145px ;
+}
+
+.container h2 {
+    font-size: 64px;
+    color: #fff;
+    display: inline-block;
+    margin-top: 125px;
+}
+
+.contForIcons {
+    margin-top: 65px;
+    display: inline-block;
+}
+
+.contForIcons img{
+    width: 9.35px;
+    height: 9.35px;
+    padding: 9px;
+}
+
+
+.allGameBtn{
+    background: none;
+    border: none;
+    margin-top: 80px;
+    margin-left: 1280px;
+    margin-bottom: 11px;
+
+}
+
+.allGameBtn p{
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.allGameBtn img{
+    width: 16px;
+    margin-left: 9px;
+}
+
+
+
+.blueLine{   
+    height: 3px;
+    width: 1436px;
+    background-color: #0761DC; 
+    border: none;
+}
+
+.contForComp{
+    background-image: url('../../assests/images/bg.png');
+  background-color: rgba(0, 0, 0, 0.941);
+
+
+}

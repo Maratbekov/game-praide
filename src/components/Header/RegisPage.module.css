@@ -1,0 +1,61 @@
+
+.header1{
+    display: flex;
+    justify-content: space-between;
+    height: 88px;
+
+    
+}
+.game{
+    width: 160px;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 23px;
+    margin-left: 134px;
+}
+.game img{
+    width: 87px;
+    height: 40px;
+}
+.game h4 {
+    display: inline-block;
+    width: 55px;
+    height: 20px;
+    color: white;
+    font-family: Racing Sans One;
+    font-size: 20px;
+    font-weight: 500;
+
+
+}
+.regisBtn{
+    width: 165px;
+    height: 39px;
+    color: white;
+    background: #0761DC;
+    border-radius: 3px;
+    margin-right: 32px;
+    margin-top: 55px;
+    margin-bottom: 23px;
+    /* font-family: Manrope; */
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+
+
+}
+.enterBtn{
+    font-size: 20px ;
+    width: 123px;
+    height: 39px;
+    border: 1px solid #E4E4E4;
+    border-radius: 3px;
+    background: none;
+    color: white;
+    margin-right: 136px;
+}
+
+
+
+
+
